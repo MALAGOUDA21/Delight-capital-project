@@ -4,7 +4,8 @@ import './index.css';
 // import App from './App';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import Ongoing from './components/ongoing'
+import Ongoing from './components/OngoingProject'
+import Estate from './components/WhyChooseUs'
 import reportWebVitals from './reportWebVitals';
 
 
@@ -13,6 +14,7 @@ root.render(
   <React.StrictMode>
     {/* <App /> */}
     <Ongoing />
+    <Estate />
     <Contact />
     <Footer />
   </React.StrictMode>

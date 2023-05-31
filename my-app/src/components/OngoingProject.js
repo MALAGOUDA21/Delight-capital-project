@@ -1,9 +1,9 @@
 import React from 'react'
 import Slider from 'react-slick'
-import './ongoing.css'
+import './OngoingProject.css'
 import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
-import Slides_data2 from './ongoing.json'
+import Slides_data2 from './OngoingProject.json'
 // import Image from "../onImages/image1.png"
 // import Image2 from "../onImages/image2.png"
 // import Image3 from "../onImages/image3.png"

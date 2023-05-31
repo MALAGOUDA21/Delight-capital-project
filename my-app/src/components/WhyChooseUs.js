@@ -1,7 +1,7 @@
 import React from 'react'
-import './estate.css'
-import Image8 from '../onImages/image8.png'
-import Image9 from '../onImages/image9.png'
+import './WhyChooseUs.css'
+import Image8 from './images/image8.png'
+import Image9 from './images/image9.png'
 
 
 const estate =()=> {
