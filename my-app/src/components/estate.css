@@ -1,0 +1,64 @@
+.estate {
+    height: 823px;
+    width: 1535px;
+    background: linear-gradient(7.08deg, #DBFC96 6.64%, rgba(219, 252, 150, 0) 96.92%);
+}
+
+.fram-247 {
+    height: 823px;
+    width: 674px;
+    margin-left: 860px;
+    border-radius: 10px;
+    background: linear-gradient(7.08deg, #DBFC96 6.64%, rgba(219, 252, 150, 0) 96.92%);
+
+}
+
+.sale {
+    height: 290px;
+    width: 655px;
+    margin-top: -688.98px;
+ 
+}
+
+.real-e {
+    height: 154px;
+    width: 563px;
+    margin-left: 70px;
+    margin-top: 65px;
+}
+
+img.back {
+    height: 290px;
+    width: 655px;
+}
+
+.capital {
+    height: 76px;
+    width: 563px;
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 38px;
+    text-align: left;
+}
+
+.provide {
+    height: 58px;
+    width: 529px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 29px;
+    text-align: left;
+    color: #6E9500;
+}
+
+img.details {
+    height: 728px;
+    width: 566px;
+    margin-left: 20px;
+    margin-top: 9px;
+    border-radius: 10px;
+    padding: 40px;
+}

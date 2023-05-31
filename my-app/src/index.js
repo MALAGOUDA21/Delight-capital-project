@@ -4,6 +4,7 @@ import './index.css';
 // import App from './App';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Ongoing from './components/ongoing'
 import reportWebVitals from './reportWebVitals';
 
 
@@ -11,6 +12,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* <App /> */}
+    <Ongoing />
     <Contact />
     <Footer />
   </React.StrictMode>
