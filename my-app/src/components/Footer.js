@@ -37,25 +37,25 @@ const Footer = () => {
                         <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAMCAYAAACulacQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAB3SURBVHgBhY8BDYAgEEUPRgAjEMEKNLCBNEEb2cAIRpAIkgD/beeGes6/vXHb+7sdREitdSAtEB3YQdKkF14FByJ3QAArCmSMmS/JmeS9FVyzhQtFChsKxTYygwWM4ODZNiKIiDxjbeZro1yb5GL//M6n6FXxlxMzB1jCP/KcPAAAAABJRU5ErkJggg==" alt="" className="vector-image" />
                         <a href="/" className="footer-links">HOME</a>
                     </div>
-                    <div className='footer-header1'>
+                    <div className='footer-header'>
                         <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAMCAYAAACulacQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAB3SURBVHgBhY8BDYAgEEUPRgAjEMEKNLCBNEEb2cAIRpAIkgD/beeGes6/vXHb+7sdREitdSAtEB3YQdKkF14FByJ3QAArCmSMmS/JmeS9FVyzhQtFChsKxTYygwWM4ODZNiKIiDxjbeZro1yb5GL//M6n6FXxlxMzB1jCP/KcPAAAAABJRU5ErkJggg==" alt="" />
-                        <a href="/about-us" className="footer-links1">ABOUT US</a>
+                        <a href="/about-us" className="footer-links">ABOUT US</a>
                     </div>
                     <div className='footer-header'>
                         <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAMCAYAAACulacQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAB3SURBVHgBhY8BDYAgEEUPRgAjEMEKNLCBNEEb2cAIRpAIkgD/beeGes6/vXHb+7sdREitdSAtEB3YQdKkF14FByJ3QAArCmSMmS/JmeS9FVyzhQtFChsKxTYygwWM4ODZNiKIiDxjbeZro1yb5GL//M6n6FXxlxMzB1jCP/KcPAAAAABJRU5ErkJggg==" alt="" />
-                        <a href="/service" className="footer-links1">SERVICE</a>
+                        <a href="/service" className="footer-links">SERVICE</a>
                     </div>
                     <div className='footer-header'>
                         <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAMCAYAAACulacQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAB3SURBVHgBhY8BDYAgEEUPRgAjEMEKNLCBNEEb2cAIRpAIkgD/beeGes6/vXHb+7sdREitdSAtEB3YQdKkF14FByJ3QAArCmSMmS/JmeS9FVyzhQtFChsKxTYygwWM4ODZNiKIiDxjbeZro1yb5GL//M6n6FXxlxMzB1jCP/KcPAAAAABJRU5ErkJggg==" alt="" />
-                        <a href="/career" className="footer-links1">CAREER</a>
+                        <a href="/career" className="footer-links">CAREER</a>
                     </div>
                     <div className='footer-header'>
                         <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAMCAYAAACulacQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAB3SURBVHgBhY8BDYAgEEUPRgAjEMEKNLCBNEEb2cAIRpAIkgD/beeGes6/vXHb+7sdREitdSAtEB3YQdKkF14FByJ3QAArCmSMmS/JmeS9FVyzhQtFChsKxTYygwWM4ODZNiKIiDxjbeZro1yb5GL//M6n6FXxlxMzB1jCP/KcPAAAAABJRU5ErkJggg==" alt="" />
-                        <a href="/blogs" className="footer-links1">BLOGS</a>
+                        <a href="/blogs" className="footer-links">BLOGS</a>
                     </div>
                     <div className='footer-header'>
                         <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAMCAYAAACulacQAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAB3SURBVHgBhY8BDYAgEEUPRgAjEMEKNLCBNEEb2cAIRpAIkgD/beeGes6/vXHb+7sdREitdSAtEB3YQdKkF14FByJ3QAArCmSMmS/JmeS9FVyzhQtFChsKxTYygwWM4ODZNiKIiDxjbeZro1yb5GL//M6n6FXxlxMzB1jCP/KcPAAAAABJRU5ErkJggg==" alt="" />
-                        <a href="/#contact" className="footer-links1">CONTACT US</a>
+                        <a href="/#contact" className="footer-links">CONTACT US</a>
                     </div>
                 </div>
                 <div className="footer-contentSection-3">

@@ -59,8 +59,10 @@ const ongoing = ()=> {
                     <div key={slide.id}>
                   <div className='slider'>
                     <div className='box-1'>
-                     <img src={Image7} alt='' className='rera-logo'></img> 
+                     <img src={slide.image} alt='' className='rera-logo'></img> 
                      </div>
+                     <div>{slide.title}</div>
+                     <div>{slide.description}</div>
                         {/* {/* <div className='rectangle'>
                         <div className='heart'>
                             <img src={Image6} alt='' className='rera-logo'></img>
